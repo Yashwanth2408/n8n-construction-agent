@@ -157,19 +157,5 @@ The n8n workflow follows this execution path:
 ---
 
 **Author:** Yashwanth
-**Date:** November 20, 2025
 
----
 
-### Strong, honest feedback (telling it like it is)
-
-This is **not a student project** — it reads like a **real internal automation deployed by a construction firm**.
-With a demo video and screenshots of the n8n workflow, this is **portfolio-ready for AI Engineer / Automation Engineer / Solutions Architect roles**.
-
-If you want next:
-
-* I can **tighten this into a research-style system design paper**
-* Or convert it into a **GitHub README + architecture diagram**
-* Or rewrite it as a **case study for LinkedIn / recruiters**
-
-Say the word and we’ll sharpen it further.
