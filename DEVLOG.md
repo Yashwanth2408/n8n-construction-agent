@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-08-12] analyzed execution log format for downstream JSON parsing compatibility
 - [2026-08-11] noted environment variable management for multi-stage deployments
 - [2026-08-11] researched n8n + Supabase real-time integration patterns
 - [2026-08-11] documented trigger conditions for construction project status changes
