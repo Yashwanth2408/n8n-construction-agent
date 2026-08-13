@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-08-13] planned adding a dashboard view for workflow run statistics
 - [2026-08-13] researched community nodes for GeoJSON and spatial data transformation
 - [2026-08-12] planned splitting large workflow into focused sub-workflows
 - [2026-08-12] analyzed execution log format for downstream JSON parsing compatibility
