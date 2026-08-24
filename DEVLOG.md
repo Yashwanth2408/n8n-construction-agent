@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-08-24] noted memory limits on self-hosted n8n when processing large payloads
 - [2026-08-14] reviewed rate limiting on external API calls within workflows
 - [2026-08-13] planned adding a dashboard view for workflow run statistics
 - [2026-08-13] researched community nodes for GeoJSON and spatial data transformation
