@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-09-25] analyzed execution log format for downstream JSON parsing compatibility
 - [2026-09-22] planned input validation layer for the construction data intake flow
 - [2026-09-22] noted webhook signature verification approach for improved security
 - [2026-08-24] noted memory limits on self-hosted n8n when processing large payloads
