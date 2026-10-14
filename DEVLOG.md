@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-10-14] documented trigger conditions for construction project status changes
 - [2026-09-30] explored n8n AI Agent node for automated site report generation
 - [2026-09-30] explored n8n AI Agent node for automated site report generation
 - [2026-09-26] analyzed execution log format for downstream JSON parsing compatibility
