@@ -5,6 +5,7 @@ Development notes, research, and planning entries.
 ## Log
 
 - [2026-11-02] researched n8n variables vs expressions for dynamic runtime config
+- [2026-11-02] researched n8n variables vs expressions for dynamic runtime config
 - [2026-10-23] documented trigger conditions for construction project status changes
 - [2026-10-16] compared batch vs per-record approach for large construction datasets
 - [2026-10-14] documented trigger conditions for construction project status changes
